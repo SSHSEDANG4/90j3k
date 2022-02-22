@@ -12,6 +12,6 @@ script auto claim voucher + setpin
 
 - git clone https://github.com/SSHSEDANG4/90j3k.git
 
-- cd GOJEKBARU
+- cd 90j3k
 
 - php run.php
