@@ -1,5 +1,6 @@
-# gojek
-script auto claim voucher + setpin
+# food 
+
+script regis + auto claim voucher :
 
 
 - pkg update && pkg upgrade
@@ -10,8 +11,26 @@ script auto claim voucher + setpin
 
 - pkg install git
 
-- git clone https://github.com/SSHSEDANG4/90j3k.git
+- git clone https://github.com/SSHSEDANG4/food.git
 
-- cd 90j3k
+- cd food
 
-- php run.php
+- php dia.php
+
+# file
+
+- https://transfer.sh/IIQtTU/Gojek4.32.1%28NPS%29.apk
+- https://www.mediafire.com/file/bctsct3ow4m06gl/CloneAppUnlimitid.apk/file
+
+# tutorial
+
+- https://youtu.be/EnAfhpXkXEU
+
+# for linux add this
+
+- apt-get install php-curl
+
+
+
+
+
